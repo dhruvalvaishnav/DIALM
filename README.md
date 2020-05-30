@@ -1,1 +1,1 @@
-# DIALM_SEM8
+# DIALM_Dynamic infrastructure availability and load management
