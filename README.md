@@ -1,1 +1,1 @@
-# DIALM_Dynamic infrastructure availability and load management
+DIALM : Dynamic Infrastructure Availability and Load Management
